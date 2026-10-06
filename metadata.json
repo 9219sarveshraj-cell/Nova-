@@ -1,0 +1,6 @@
+{
+  "name": "NOVA AI Assistant",
+  "description": "Smart voice, screen-aware, and multimodal personal AI assistant supporting English, Hinglish, and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

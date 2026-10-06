@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NOVA AI Assistant</string>
+    <string name="accessibility_service_description">Allows NOVA AI Assistant to read visible on-screen text and UI elements ONLY when you explicitly trigger a screen reading command (such as \"Screen par kya likha hai?\" or \"Read Screen\"). NOVA automatically skips password fields, OTPs, and sensitive credentials, and never records or transmits your screen in the background.</string>
+    <string name="nav_assistant">Assistant</string>
+    <string name="nav_screen_hub">Screen &amp; Commands</string>
+    <string name="nav_history">History</string>
+    <string name="nav_permissions">Privacy &amp; Perms</string>
+    <string name="nav_settings">Settings</string>
+    <string name="mic_button_desc">Activate voice input</string>
+    <string name="send_button_desc">Send message to NOVA AI</string>
+    <string name="attach_image_desc">Attach screenshot or image</string>
+    <string name="read_screen_desc">Read current screen content</string>
+    <string name="clear_chat_desc">Clear current conversation</string>
+    <string name="retry_action">Retry</string>
+    <string name="security_warning_prototype">Security Warning: API keys configured via BuildConfig are packaged in this prototype APK. Android APKs can be decompiled, so do not share this APK publicly.</string>
+</resources>
